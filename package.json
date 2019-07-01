@@ -23,7 +23,7 @@
     "prepublishOnly": "yarn build"
   },
   "devDependencies": {
-    "@types/codemirror": "^0.0.74",
+    "@types/codemirror": "^0.0.76",
     "@types/gsap": "^1.20.2",
     "@types/jest": "^23.1.4",
     "@types/lodash": "^4.14.133",
